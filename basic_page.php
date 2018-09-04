@@ -4,7 +4,7 @@ Template Name: basic_page
 */
 get_header();
 ?>
-<div id="page">
+<div id="root">
 	<div>
 	<?php
 	if ( have_posts() ) :
